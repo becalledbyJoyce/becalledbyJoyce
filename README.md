@@ -1,2 +1,2 @@
-iiiits my application
+iiiits my stupid application
 
